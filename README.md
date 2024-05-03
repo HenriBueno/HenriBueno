@@ -34,9 +34,9 @@ vida das pessoas ao meu redor.
 
 ## -  🚀 Minhas Redes
 
-<code><a href="https://www.instagram.com/henrique_cb_99/" target="blank"> <img height="32" src="https://github.com/HenriBueno/HenriBueno/assets/123429480/795e49f9-f61f-463f-8908-0a42c30f2195" alt="Instagram"/> </a></code>
-<code><a href="https://www.linkedin.com/in/henrique-cavalheiro-bueno-6802a7248/" target="blank"> <img height="32" src="https://github.com/HenriBueno/HenriBueno/assets/123429480/5048f6be-7ea7-4918-a644-f7c558720c78" alt="Linkedin"/>  </a></code>
-<code><a href="mailto:henriquetribueno@gmail.com" target="blank" > <img height="32" src="https://github.com/HenriBueno/HenriBueno/assets/123429480/8f41651e-2940-4007-8d9c-b08417acd8c7" alt="Email"/> </a></code>
+<code><a href="https://www.instagram.com/henrique_cb_99/" target="_blank"> <img height="32" src="https://github.com/HenriBueno/HenriBueno/assets/123429480/795e49f9-f61f-463f-8908-0a42c30f2195" alt="Instagram"/> </a></code>
+<code><a href="https://www.linkedin.com/in/henrique-cavalheiro-bueno-6802a7248/" target="_blank"> <img height="32" src="https://github.com/HenriBueno/HenriBueno/assets/123429480/5048f6be-7ea7-4918-a644-f7c558720c78" alt="Linkedin"/>  </a></code>
+<code><a href="mailto:henriquetribueno@gmail.com" target="_blank" > <img height="32" src="https://github.com/HenriBueno/HenriBueno/assets/123429480/8f41651e-2940-4007-8d9c-b08417acd8c7" alt="Email"/> </a></code>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
